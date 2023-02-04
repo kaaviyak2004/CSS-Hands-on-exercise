@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+            <div>
+            <h1 id="titleName">Easy steps</h1>
+            <img id="health1" src="https://www.thedeliciouscrescent.com/wp-content/uploads/2020/12/Fruit-Salad-7.jpg" alt="">
+            <h1 id="healthDescription1">Eat fruits</h1>
+            <p id="healthParagraph1">Fruit salad is a dish with of different kinds of fruit. Fruit salad can sometimes be served in a liquid like juices or a syrup. Most of the time it is served as an appetizer or as a dessert. A fruit salad is sometimes known as a fruit cocktail or fruit cup.</p>
+            </div>
+            <div>
+            <h1 id="healthDescription2">Excerise</h1>
+            <p id="healthParagraph2">Exercise controls weight. Exercise can help prevent excess weight gain or help maintain weight loss,
+                Exercise combats health conditions and diseases,
+                Exercise improves mood,
+                Exercise boosts energy,
+                Exercise promotes better sleep.</p>
+            <img id="health2" src="https://img.freepik.com/free-vector/woman-sport-activities_102902-2337.jpg?w=2000" alt="">
+            </div>
+            <div>
+                <img id="health3" src="https://www.artofliving.org/sites/www.artofliving.org/files/styles/facebook_thumb/public/unity2/blog_image/Online-Guided-Meditation.jpg?itok=XCLpWHXy" alt="">
+            <h1 id="healthDescription3">Emotional health</h1>
+            <p id="healthParagraph3">Emotional health allows you to work productively and cope with the stresses of everyday life. It can help you realize your full potential. It helps you work with other people and contribute to society. It also affects your physical health.</p>
+            </div>
+            <div>
+            <h1 id="healthDescription4">Drink lot of water</h1>
+            <p id="healthParagraph4">Keep a normal temperature. Lubricate and cushion joints. Protect your spinal cord and other sensitive tissues. Get rid of wastes through urination, perspiration, and bowel movements.</p>
+            <img id="health4" src="https://domf5oio6qrcr.cloudfront.net/medialibrary/7909/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg" alt="">
+            </div>
+            <div>
+                <img id="health5" src="https://media.istockphoto.com/id/1299342760/photo/glass-cup-of-green-tea-with-fresh-tea-leaves-on-wooden-table-hot-drink-concept.jpg?s=612x612&w=0&k=20&c=Lxa6BAivj5hcdjTXISqulVZIah8C8sl7Vjxs3qm0G20=" alt=""> 
+            <h1 id="healthDescription5">Have a cup of tea</h1>
+            <p id="healthParagraph5">Green tea is packed full of health-promoting compounds. Regularly drinking green tea can help you lose weight and reduce your risk of several diseases, including diabetes, heart disease and cancer. Drinking three to five cups of green tea per day seems to be optimal to reap the most health benefits.</p>
+        </div>
+            
+        </body>
+        </html>
